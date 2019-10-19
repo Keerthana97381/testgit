@@ -8,5 +8,6 @@ To render your document in HTML or PDF format using windows, it is essential tha
 * Add Asciidoctor extension in Visual Studio Code
 * Include Images and create TOC
 * Generate HTML and PDF 
+* great job in STC
 
 
