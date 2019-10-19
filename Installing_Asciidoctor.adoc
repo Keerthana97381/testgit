@@ -15,7 +15,7 @@ image::..\Images\License_Agreement.png[License Agreement]
 +
 image::..\Images\Complete_Ruby_Installation.png[Ruby Installation]
 
-
+hii hello this is keerthana
 . De-select the *Run 'ridk install' to setup MSYS2 and development toolchain* and then click *Finish*.
 
 . To check the installed version of ruby and gem, open the window terminal and type 
